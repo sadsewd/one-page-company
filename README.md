@@ -30,6 +30,14 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
         </sub>
       </a>
     </td>
+     <td align="center">
+      <a href="https://github.com/EufranioDiogo">
+        <img src="https://avatars3.githubusercontent.com/u/62727833" width="100px;" alt="Foto do Eufránio Diogo no GitHub"/><br>
+        <sub>
+          <b>Eufránio Diogo</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
